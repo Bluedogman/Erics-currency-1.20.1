@@ -14,7 +14,7 @@
 ### /sell: 'sell \<item> or "hand" \<amount> or "all"'
 ### /bal or /balance: Displays the users balance, or how much money they have.
 
-<h2>Contacting me<h2>
+# Contacting me
 ### email me at [goeric09@gmail.com](goeric09@gmail.com)
 ### find my curseforge profile [here](https://legacy.curseforge.com/members/bluedogman/projects)
 ### find my GitHub profile [here](https://github.com/Bluedogman)
